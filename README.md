@@ -1,2 +1,2 @@
 # Learning-C-
-magic 8-ball console program
+Just posting the work i did when learing C#
